@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    color: aliceblue;
+}
+
+h1 {
+    font-size: 3em;
+    text-decoration: underline;
+    
+    color: rgb(121, 246, 246);
+}
+p{
+    font-size: 1.7em;
+    letter-spacing: 0.13em;
+    line-height: 1.3em;
+}
+td{
+    font-size: 1.8em;
+}
